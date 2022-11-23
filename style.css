@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(14, 14, 95);
+    font: normla 15pt arial
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+    height: 450px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#res{
+    font-size: 1.2em;
+}
+#botao{
+    padding: 8px;
+    background-color: rgb(187, 187, 187);
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.2);
+    
+}
